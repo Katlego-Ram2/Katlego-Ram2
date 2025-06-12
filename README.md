@@ -51,32 +51,7 @@ I'm always excited to connect with fellow tech enthusiasts. Drop me a message!
 
 ---
 
-## 🌌 **Featured Adventures**  
-Here’s a peek at some of my most exciting projects!
 
-### 🌟 **Showcased Projects**:
-[![Innovative App](https://img.shields.io/badge/🚀_Innovative_App-Explore-blue?style=for-the-badge)](https://github.com/Katlego-Ram2/innovative-app)  
-*Transforming ideas into intuitive user experiences.*  
-
-[![Web Platform](https://img.shields.io/badge/🌐_Web_Platform-Explore-green?style=for-the-badge)](https://github.com/Katlego-Ram2/web-platform)  
-*Bridging functionality with aesthetics.*  
-
-[![AI Solution](https://img.shields.io/badge/🤖_AI_Solution-Explore-purple?style=for-the-badge)](https://github.com/Katlego-Ram2/ai-solution)  
-*Solving complex problems with artificial intelligence.*  
-
-[![Movie Ticket Booking System](https://img.shields.io/badge/🎬_Movie_Ticket_System-Explore-red?style=for-the-badge)](https://github.com/Katlego-Ram2/cinema)  
-*A web-based ticket booking platform built with MySQL and PHP.*  
-
-[![Delivery Tracking System](https://img.shields.io/badge/📦_Delivery_System-Explore-orange?style=for-the-badge)](https://github.com/Katlego-Ram2/deliveryApp)  
-*An Angular and Java Spring Boot application for delivery tracking.*  
-
-[![Curriculum Vitae Generator](https://img.shields.io/badge/📄_CV_Generator-Explore-yellow?style=for-the-badge)](https://github.com/Katlego-Ram2/cvgenerator)  
-*A PHP and JavaScript online curriculum vitae generator.*  
-
-[![E-Commerce Website](https://img.shields.io/badge/🛒_E_Commerce_Website-Explore-cyan?style=for-the-badge)](https://github.com/Katlego-Ram2/ecommerce-site)  
-*A complete Angular and Express.js online store with payment integration.*  
-
----
 
 ## 🎨 **Beyond the Code**
 When I'm not coding, you'll find me:
